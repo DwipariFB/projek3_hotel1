@@ -33,9 +33,9 @@ function App() {
           name="Login"
           component={Login}
           options={{
-            headerTitle: () => <Header name="Bug Ninza" />,
+            headerTitle: () => <Header name="TravelHotel" />,
             headerStyle: {
-              height: 150,
+              height: 100,
               borderBottomLeftRadius: 50,
               borderBottomRightRadius: 50,
               backgroundColor: "#00e4d0",
@@ -49,9 +49,9 @@ function App() {
           name="Registration"
           component={Registration}
           options={{
-            headerTitle: () => <Header name="Bug Ninza" />,
+            headerTitle: () => <Header name="Bug TravelHotel" />,
             headerStyle: {
-              height: 150,
+              height: 100,
               borderBottomLeftRadius: 50,
               borderBottomRightRadius: 50,
               backgroundColor: "#00e4d0",
